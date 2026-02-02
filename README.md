@@ -812,7 +812,7 @@ This tutorial shows how to export all your revealed game keys from Humble Bundle
 | Yakuza Like a Dragon | 2026-01-26 | - | - | May 2024 Humble Choice | Steam | [SEGA](https://www.sega.com) | - |
 | HUMANKIND Definitive Edition | - | - | - | April 2024 Humble Choice | Steam | [AMPLITUDE Studios](https://amplitude-studios.com) | - |
 | Symphony of War: The Nephilim Saga | - | - | - | April 2024 Humble Choice | Steam | [indie.io](https://indie.io) | - |
-| Victoria 3 | - | - | - | April 2024 Humble Choice | Steam | [Paradox Interactive](https://www.paradoxinteractive.com) | - |
+| Victoria 3 | 2026-02-02 | - | - | April 2024 Humble Choice | Steam | [Paradox Interactive](https://www.paradoxinteractive.com) | - |
 | The Callisto Protocol | - | - | - | April 2024 Humble Choice | Steam | [Krafton](https://www.krafton.com) | - |
 | Fashion Police Squad | - | Switched DRM | - | April 2024 Humble Choice | Steam | [No More Robots](https://nomorerobots.io) | - |
 | Terraformers | - | - | - | April 2024 Humble Choice | Steam | [Goblinz Publishing](https://goblinzstudio.com) | - |
